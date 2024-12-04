@@ -1,6 +1,7 @@
 Hello and Welcome to my GitHub page 👋
 
 Since May 2024 I have decided to explore the world of Computational Science. 
+
 For that reason, I have completed an online course in Python and SQL.
 
 In order to expand my expertise in the field of computer science, I am currently enrolled in a Data Scientist training program.
